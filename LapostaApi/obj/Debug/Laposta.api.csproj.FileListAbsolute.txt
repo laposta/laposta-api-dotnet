@@ -1,0 +1,35 @@
+D:\tester\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\tester\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\tester\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\tester\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\tester\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\tester\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\tester\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Laposta\API_20130327\LapostaApi\bin\WebApplication1.dll
+C:\Laposta\API_20130327\LapostaApi\bin\WebApplication1.pdb
+C:\Laposta\API_20130327\LapostaApi\bin\Newtonsoft.Json.dll
+C:\Laposta\API_20130327\LapostaApi\bin\Newtonsoft.Json.xml
+C:\Laposta\API_20130327\LapostaApi\obj\Debug\Laposta.api.csprojResolveAssemblyReference.cache
+C:\Laposta\API_20130327\LapostaApi\obj\Debug\WebApplication1.dll
+C:\Laposta\API_20130327\LapostaApi\obj\Debug\WebApplication1.pdb
+C:\Laposta\Laposta Api\LapostaApi\bin\WebApplication1.dll
+C:\Laposta\Laposta Api\LapostaApi\bin\WebApplication1.pdb
+C:\Laposta\Laposta Api\LapostaApi\bin\Newtonsoft.Json.dll
+C:\Laposta\Laposta Api\LapostaApi\bin\Newtonsoft.Json.xml
+C:\Laposta\Laposta Api\LapostaApi\obj\Debug\Laposta.api.csprojResolveAssemblyReference.cache
+C:\Laposta\Laposta Api\LapostaApi\obj\Debug\WebApplication1.dll
+C:\Laposta\Laposta Api\LapostaApi\obj\Debug\WebApplication1.pdb
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\bin\WebApplication1.dll
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\bin\WebApplication1.pdb
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\bin\Newtonsoft.Json.dll
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\bin\Newtonsoft.Json.xml
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\obj\Debug\Laposta.api.csprojResolveAssemblyReference.cache
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\obj\Debug\WebApplication1.dll
+C:\Laposta\API-20141027\laposta-dotnet-latest\Laposta Api\LapostaApi\obj\Debug\WebApplication1.pdb
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\bin\WebApplication1.dll
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\bin\WebApplication1.pdb
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\bin\Newtonsoft.Json.dll
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\bin\Newtonsoft.Json.xml
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\obj\Debug\Laposta.api.csprojResolveAssemblyReference.cache
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\obj\Debug\WebApplication1.dll
+C:\Laposta\API_20141027\Laposta Api\LapostaApi\obj\Debug\WebApplication1.pdb
